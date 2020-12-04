@@ -11,8 +11,8 @@ This file can be used as a complete web browser (Need to run the python files)
 
 ## Screenshots
 
-![Example screenshot](./project screenshot-1.png)
-![Example screenshot](./project screenshot-2.png)
+![Example screenshot](./img/project screenshot-1.png)
+![Example screenshot](./img/project screenshot-2.png)
 
 ## Technologies
 * Python == 3.8
