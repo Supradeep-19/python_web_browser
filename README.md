@@ -10,9 +10,12 @@
 This file can be used as a complete web browser (Need to run the python files)
 
 ## Screenshots
-
-![Example screenshot](./img/project screenshot-1.png)
-![Example screenshot](./img/project screenshot-2.png)
+<p align="center">
+  <b><img src="./img/project screenshot-1.png"></b><br>
+  <b>Sample Image-1</b>
+  <b><img src="./img/project screenshot-2.png"></b>
+  <b>Sample Image-2</b>
+</p>
 
 ## Technologies
 * Python == 3.8
